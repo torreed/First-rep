@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+h1{
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    width: 70%;
+    font-size: 50px;
+}
+header{
+    background-color: white;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+header>*{
+    display: inline-block;
+}
+article{
+    background-color: darkcyan;
+    border-radius: 40px;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    font-family: 'Comfortaa', cursive;
+}
+#azerb{
+    height: 300px;
+}
+.az{
+    display: flex;
+   justify-content: flex-end;
+}
+body{
+    background-image: url(https://s01.cdn-pegast.net/get/07/d2/89/227b1989d6448bf75951b2ab4953dcad3d72a0483cc26c3b0d94f879b2/azerbaijan-1.jpg);
+    background-attachment: fixed;
+}
+.baku{
+    height: 300px;
+    width: 600px;
+    border-radius: 1%;
+}
+iframe{
+    width: 60%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
